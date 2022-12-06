@@ -1,3 +1,11 @@
+## Kelompok 7
+
+* Saddam Aryo Cahyotomo (1313620011)
+
+* Boban Anderson (1313620021)
+
+* Ramadhian Surya Nugraha (1313620035)
+
 <<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
